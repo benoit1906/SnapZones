@@ -32,3 +32,7 @@ Divide the height of a snapped window by 2.
 
 Win + Right Click on the desktop
 Open the menu.
+
+## About
+This program was created with AutoHotkey 1.1.32 in 2021.
+If you would like to donate, do it [here](http://facebook.com).
