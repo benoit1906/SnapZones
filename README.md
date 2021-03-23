@@ -3,12 +3,12 @@
 ## Description
 This program is aimed to be a replacement for the default AeroSnap on Windows while providing other options to manage windows. AeroSnap is a feature of Windows 10 that allows to place easily two windows on each side of the screen.
 SnapZones expands the concept futher by increasing the maximum number of snapped windows. This is done by providing zones in which the user drop any window by dragging or by using the original Windows key combinations.<br/>
-This program was developped with UltraWide screens in mind but all kinds of screens are supported, as well as multi-monitor setups and (partially) vertical screens.
+This program was developped with UltraWide screens in mind but all kinds of screens are supported, as well as multi-monitor setups and (partially supported) vertical screens.
 
 ![](demo.gif)
 
 ## Installation
-If you know AutoHotkey, then you know how to do it. Otherwise, use the .exe file (you can delete other files).
+If you know AutoHotkey, then you know how to do it. Otherwise, use the .exe file (you can delete the other files).
 
 ## Tutorial
 ### Zone Positioning:
