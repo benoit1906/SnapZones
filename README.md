@@ -18,19 +18,19 @@ Hold Shift while holding the left, right, top or bottom edge of a snapped window
 
 ### Shortcut Keys: 
 
-Win + Left/Right
+- Win + Left/Right <br/>
 Snap or move a window to left or right.
 
-Win + Up/Down
+- Win + Up/Down
 Increase/Decrease the width of a snapped window.
 
-Win + PageUp/PageDown
+- Win + PageUp/PageDown
 Increase/Decrease the number of zones on the current monitor.
 
-Win + Shift + PageUp/PageDown
+- Win + Shift + PageUp/PageDown
 Divide the height of a snapped window by 2.
 
-Win + Right Click on the desktop
+- Win + Right Click on the desktop
 Open the menu.
 
 ## About
