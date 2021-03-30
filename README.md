@@ -11,7 +11,7 @@ If you know AutoHotkey, then you know how to do it. Otherwise, use the .exe file
 ## Tutorial
 ### Zone Positioning:
 
-![](Demo2.gif = 400x)
+![](Demo2.gif)
 
 - Hold Shift while dragging a window to snap it into a zone. With this technique, you can snap a window on up to three zones at once !<br/>
 - Hold Shift while holding the left, right, top or bottom edge of a snapped window to change its size according to the zones.
