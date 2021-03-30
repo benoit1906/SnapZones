@@ -37,4 +37,11 @@ Open the menu.
 
 ## About
 This program was created with AutoHotkey 1.1.32 in 2021.<br/>
-If you would like to donate, do it [here](http://facebook.com).
+If you would like to donate, do it [here](https://www.paypal.com/donate?hosted_button_id=9J2QNP7FWP2GJ).
+<html>
+  <form action="https://www.paypal.com/donate" method="post" target="_top">
+  <input type="hidden" name="hosted_button_id" value="9J2QNP7FWP2GJ" />
+  <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_donate_SM.gif" border="0" name="submit" title="PayPal - The safer, easier way to pay online!" alt="Donate with PayPal button" />
+  <img alt="" border="0" src="https://www.paypal.com/en_BE/i/scr/pixel.gif" width="1" height="1" />
+  </form>
+</html>
