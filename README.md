@@ -5,8 +5,6 @@ This program is aimed to be a replacement for the default AeroSnap on Windows wh
 SnapZones expands the concept further by increasing the maximum number of snapped windows. This is done by providing zones in which the user drop any window by dragging or by using the original Windows key combinations.<br/>
 This program was developped with UltraWide screens in mind but all kinds of screens are supported, as well as multi-monitor setups and (partially supported) vertical screens.
 
-![](Demo1.gif)
-
 ## Installation
 If you know AutoHotkey, then you know how to do it. Otherwise, use the .exe file (you can delete the other files).
 
@@ -16,6 +14,8 @@ If you know AutoHotkey, then you know how to do it. Otherwise, use the .exe file
 - Hold Shift while holding the left, right, top or bottom edge of a snapped window to change its size according to the zones.
 
 ### Shortcut Keys: 
+
+![](Demo1.gif)
 
 - Win + Left/Right <br/>
 Snap or move a window to left or right.
