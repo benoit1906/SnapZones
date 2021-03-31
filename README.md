@@ -20,7 +20,7 @@ If you know AutoHotkey, then you know how to do it. Otherwise, use the .exe file
 
 ### Shortcut Keys: 
 
-(Win is reffering as the Windows key)
+("Win" is referring as the Windows key)
 
 - Win + Left/Right <br/>
 Snap or move a window to left or right.
